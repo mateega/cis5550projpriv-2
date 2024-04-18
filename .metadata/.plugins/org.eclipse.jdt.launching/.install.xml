@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home" stamp="1618959449000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home" stamp="1710697371753"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home" stamp="1713041156704"/>
+    <entry loc="/Users/spencermateega/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955/jre" stamp="1612210740593"/>
+    <entry loc="/Users/spencermateega/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home" stamp="1636760474103"/>
+    <entry loc="/Users/spencermateega/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955" stamp="1612210740604"/>
+</dirs>
